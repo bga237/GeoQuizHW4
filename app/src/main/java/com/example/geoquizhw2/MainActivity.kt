@@ -82,8 +82,6 @@ class MainActivity : AppCompatActivity() {
             updateQuestion()
         }
 
-            //currentIndex = 0
-
         updateQuestion()
         // call to the function
     }
